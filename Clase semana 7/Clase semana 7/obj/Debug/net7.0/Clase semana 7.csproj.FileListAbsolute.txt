@@ -1,0 +1,15 @@
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\bin\Debug\net7.0\Clase semana 7.exe
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\bin\Debug\net7.0\Clase semana 7.deps.json
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\bin\Debug\net7.0\Clase semana 7.runtimeconfig.json
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\bin\Debug\net7.0\Clase semana 7.dll
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\bin\Debug\net7.0\Clase semana 7.pdb
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\Clase semana 7.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\Clase semana 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\Clase semana 7.AssemblyInfoInputs.cache
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\Clase semana 7.AssemblyInfo.cs
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\Clase semana 7.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\Clase semana 7.dll
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\refint\Clase semana 7.dll
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\Clase semana 7.pdb
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\Clase semana 7.genruntimeconfig.cache
+C:\Users\gamer\source\repos\Clase semana 7\Clase semana 7\obj\Debug\net7.0\ref\Clase semana 7.dll
